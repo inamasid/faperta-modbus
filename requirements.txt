@@ -3,3 +3,6 @@ pymodbus
 selenium
 pynput
 python-snap7
+pywebview
+kivy
+pymodbus

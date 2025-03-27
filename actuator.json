@@ -1,0 +1,54 @@
+{
+    "responseCode": "000",
+    "responseMessage": "success",
+    "advice": {
+        "auto_watering": 1,
+        "auto_growlight": 0,
+        "auto_envicor": 0,
+        "envicor_temp": 23,
+        "envicor_tempCal": 16,
+        "envicor_co2Cal": 945,
+        "envicor_co2Target": 1200,
+        "envicor_humTol": 1,
+        "envicor_humTarget": 50,
+        "dAB": 0,
+        "dPhUp": 0,
+        "dPhDown": 0,
+        "co2": 0,
+        "plantPump": 0,
+        "sensorPump": 0,
+        "grow1": 0,
+        "grow2": 0,
+        "grow3": 0,
+        "grow4": 0,
+        "grow5": 0,
+        "grow6": 0,
+        "envicor": 1,
+        "watering_schedule": [
+            {
+                "id": "68",
+                "ontime": "08:05:00",
+                "offtime": "08:06:00"
+            },
+            {
+                "id": "69",
+                "ontime": "15:05:00",
+                "offtime": "15:06:00"
+            }
+        ],
+        "growlight_schedule": [],
+        "envicor_schedule": [
+            {
+                "id": "1",
+                "ontime": "09:15:00",
+                "offtime": "11:00:00"
+            },
+            {
+                "id": "21",
+                "ontime": "03:04:00",
+                "offtime": "12:04:00"
+            }
+        ],
+        "updated_at": "2025-03-21 08:07:00"
+    }
+}
